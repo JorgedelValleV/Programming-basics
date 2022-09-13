@@ -1,0 +1,37 @@
+4 3 5
+AVANZAR AVANZAR AVANZAR GIROIZQUIERDA LASER
+4 
+D@    @D
+@@    @@
+ #@@@@# 
+  @$$@  
+ #@$$@# 
+  @@@@  
+@@    @@
+R     @U
+---
+2 2 3
+AVANZAR GIRODERECHA AVANZAR
+2
+DC    CD
+CC    CC
+ #@@@@# 
+  @$ @  
+ #@ $@# 
+  @@@@  
+CC    CC
+CC    CC
+---
+2 1 5
+GIROIZQUIERDA AVANZAR AVANZAR GIRODERECHA LASER
+2
+DC    CD
+CC    CC
+@#@@@@# 
+  @$ @  
+ #@ $@# 
+  @@@@  
+CC    CC
+CC    CC
+---
+0

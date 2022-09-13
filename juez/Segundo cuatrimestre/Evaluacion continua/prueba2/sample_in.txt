@@ -1,0 +1,36 @@
+3
+A 6
+nombre1 apellidos1
+16541321G 15/06/01 10
+nombre2 apellidos2
+22648282F 15/06/06 5
+nombre3 apellidos3
+32154637K 15/06/03 4
+nombre4 apellidos4
+44536545U 15/06/01 10
+nombre5 apellidos5
+56453567L 15/06/06 3
+nombre6 apellidos6
+69734566D 15/06/03 2
+B 2
+nombre7 apellido7
+73445675K 15/06/03 3
+nombre4 apellidos4
+44536545U 15/06/01 7
+C 4
+nombre3 apellidos3
+32154637K 15/06/03 6
+nombre5 apellidos5
+56453567L 15/06/06 8
+nombre4 apellidos4
+44536545U 15/06/01 8
+nombre8 apellidos8
+84355656M 15/06/01 5
+3
+44536545U
+32154637K
+69734566D
+3
+A
+C
+B

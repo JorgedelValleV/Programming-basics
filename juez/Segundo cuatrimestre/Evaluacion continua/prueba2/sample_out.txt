@@ -1,0 +1,16 @@
+Alumno 44536545U Grupos 
+A - 10
+B - 7
+C - 8
+Alumno 32154637K Grupos 
+A - 4
+C - 6
+Alumno 69734566D Grupos 
+A - 2
+Estudiantes suspensos en el grupo A
+32154637K - 15/06/03 - 4 - nombre3 apellidos3
+56453567L - 15/06/06 - 3 - nombre5 apellidos5
+69734566D - 15/06/03 - 2 - nombre6 apellidos6
+Estudiantes suspensos en el grupo C
+Estudiantes suspensos en el grupo B
+73445675K - 15/06/03 - 3 - nombre7 apellido7
